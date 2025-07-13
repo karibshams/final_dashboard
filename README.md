@@ -258,14 +258,6 @@ The right-side panel in the dashboard displays:
 * Smart auto-reply on real platforms
 * Notification system for high-priority leads
 
----
-
-Let me know if you'd like the following next:
-
-* `app.py` template based on your backend logic
-* `requirements.txt` based on your dependencies
-* Diagram of the architecture
-* Auto-deployment setup (e.g., with Streamlit Cloud, Docker, or Heroku)
 
 
 
